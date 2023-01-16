@@ -1,0 +1,26 @@
+ .sb-icon-hover{
+ -moz-transition: height .5s;
+  -ms-transition: height .5s;
+  -o-transition: height .5s;
+  -webkit-transition: height .5s;
+  transition: height .5s;
+
+}
+
+
+  
+  /* Medium View */
+  @media screen and (min-width: 768px) {
+    .size1{
+        font-size: 14px;
+    }
+    .size{
+      font-size: 14px;
+  }
+  }
+  
+  @media only screen and (max-width: 600px){
+    .size1{
+        font-size: 10px;
+    }
+  }

@@ -11,7 +11,7 @@ export default function Hero1() {
                 </button>
             </div>
             <div className='md:w-[50%] '>
-                <img src={heroImage} className="h-full"/>
+                <img src={heroImage} className=""/>
             </div>
         </div>
     )

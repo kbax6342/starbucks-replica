@@ -127,7 +127,7 @@ export default function Footer() {
             <li class=" flex justify-between px-2 py-4 text-black   ">
               <span className="text-center font-semibold ">Careers </span>
               <div className=" ml-[25%]">
-                <FaChevronDown className="flex  text-2xl mt-2" />
+                <FaChevronUp className="flex  text-2xl mt-2" />
               </div>
             </li>
             <li>
@@ -139,7 +139,7 @@ export default function Footer() {
                   Social Impact{" "}
                 </span>
                 <div className=" ml-[25%]">
-                  <FaChevronDown className="flex  text-2xl mt-2" />
+                  <FaChevronUp className="flex  text-2xl mt-2" />
                 </div>
               </a>
             </li>
@@ -152,7 +152,7 @@ export default function Footer() {
                   For Business Partners{" "}
                 </span>
                 <div className=" ml-[25%]">
-                  <FaChevronDown className="flex  text-2xl mt-2" />
+                  <FaChevronUp className="flex  text-2xl mt-2" />
                 </div>
               </a>
             </li>
@@ -165,7 +165,7 @@ export default function Footer() {
                   Order and Pickup
                 </span>
                 <div className=" ml-[25%]">
-                  <FaChevronDown className="flex  text-2xl mt-2" />
+                  <FaChevronUp className="flex  text-2xl mt-2" />
                 </div>
               </a>
             </li>
